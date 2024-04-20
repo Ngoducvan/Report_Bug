@@ -42,7 +42,7 @@
   
   [VIDEO THỰC HIỆN TRÊN MÁY TÍNH](https://drive.google.com/drive/folders/1qQiC8_f9JNI91FMHwWliaVpLkHy59n2g?usp=drive_link)
 
-Cảm ơn bạn đã đọc báo cáo.
+Cảm ơn bạn đã dành thời gian để đọc báo cáo.
   
   
 
