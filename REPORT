@@ -1,0 +1,6 @@
+LỖ HỔNG BẢO MẬT IDOR TRÊN WEBSITE AZOTA
+Mô tả: lỗi bảo mật có thể khiến cho người dùng với quyền giáo viên sẽ xem được đáp án của các câu hỏi không thuộc về mình.
+Quá trình thực hiện:
+Bước 1: Tạo tài khoản giáo viên
+Bước 2: Tạo một đề thi thử và vào phần chỉnh sửa nội dung câu hỏi
+https://ibb.co/0fjvPg8
