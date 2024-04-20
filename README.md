@@ -42,8 +42,11 @@
   
   [VIDEO THỰC HIỆN TRÊN MÁY TÍNH](https://drive.google.com/drive/folders/1qQiC8_f9JNI91FMHwWliaVpLkHy59n2g?usp=drive_link)
 
-Cảm ơn bạn đã dành thời gian để đọc báo cáo.
-  
+Cảm ơn bạn đã dành thời gian để đọc báo cáo,mong nhận được phản hồi từ bạn.
+
+**Gmail của mình:ngoducvan118@gmail.com**
+
+**Facebook của mình:https://www.facebook.com/ngovan1108**  
   
 
 
